@@ -117,9 +117,13 @@ gesture-calculator/\
 ---
 <img width="1764" height="955" alt="image" src="https://github.com/user-attachments/assets/99379b2c-d060-41eb-a907-392524307f15" />
 <img width="1647" height="854" alt="image" src="https://github.com/user-attachments/assets/8673f85e-ca65-425a-a964-a1f8506db5d7" />
-<img width="1688" height="837" alt="image" src="https://github.com/user-attachments/assets/23010737-60f0-410e-ba7d-181d1f6b86eb" />
-<img width="1544" height="946" alt="image" src="https://github.com/user-attachments/assets/38239696-d12d-4502-8290-c09664c22864" />
-<img width="1371" height="822" alt="image" src="https://github.com/user-attachments/assets/76550488-0133-4619-81b9-3fbf59f259dc" />
+<img width="1413" height="961" alt="image" src="https://github.com/user-attachments/assets/a364762e-a0ea-494f-b591-21dbdf8a73a2" />
+<img width="1131" height="824" alt="image" src="https://github.com/user-attachments/assets/23ee8aaa-6083-415b-addd-7dd80a346746" />
+<img width="1348" height="863" alt="image" src="https://github.com/user-attachments/assets/95a347d7-c7b9-49bd-8119-86ef8a2e0366" />
+
+
+
+
 
 
 
