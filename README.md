@@ -107,4 +107,14 @@ gesture-calculator/
 - The hand tracking logic may require a plain background for optimal accuracy.
 
 ---
+<img width="1764" height="955" alt="image" src="https://github.com/user-attachments/assets/99379b2c-d060-41eb-a907-392524307f15" />
+<img width="1647" height="854" alt="image" src="https://github.com/user-attachments/assets/8673f85e-ca65-425a-a964-a1f8506db5d7" />
+<img width="1688" height="837" alt="image" src="https://github.com/user-attachments/assets/23010737-60f0-410e-ba7d-181d1f6b86eb" />
+<img width="1544" height="946" alt="image" src="https://github.com/user-attachments/assets/38239696-d12d-4502-8290-c09664c22864" />
+<img width="1371" height="822" alt="image" src="https://github.com/user-attachments/assets/76550488-0133-4619-81b9-3fbf59f259dc" />
+
+
+
+
+
 
