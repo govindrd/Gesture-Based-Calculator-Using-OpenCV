@@ -53,8 +53,10 @@ Open this URL in your web browser to access the calculator interface.
 ---
 # Project Structure
 
-gesture-calculator/
+gesture-calculator/\
+
 ├── templates/
+
 │   └── index.html         # Frontend HTML
 
 ├── button.py              # Button rendering logic
