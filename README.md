@@ -56,11 +56,17 @@ Open this URL in your web browser to access the calculator interface.
 gesture-calculator/
 ├── templates/
 │   └── index.html         # Frontend HTML
+
 ├── button.py              # Button rendering logic
+
 ├── calculator.py          # Calculator logic and expression evaluation
+
 ├── hand_tracker.py        # Hand detection and pinch gesture logic
+
 ├── main.py                # Flask backend and OpenCV integration
+
 ├── requirements.txt       # Python dependencies
+
 └── README.md              # Project documentation
 
 
